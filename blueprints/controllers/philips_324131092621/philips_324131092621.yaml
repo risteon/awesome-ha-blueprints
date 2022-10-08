@@ -1,8 +1,8 @@
 # Blueprint metadata
 blueprint:
-  name: NO DOUBLE CLICK DELAY - Controller - Philips 324131092621 Hue Dimmer switch
+  name: Controller - Philips 324131092621 Hue Dimmer switch - fixed action mapping
   description: |
-    # Updated. Controller - Philips 324131092621 Hue Dimmer switch
+    # Controller - Philips 324131092621 Hue Dimmer switch - fixed action mapping
 
     Controller automation for executing any kind of action triggered by the provided Philips 324131092621 Hue Dimmer switch. Allows to optionally loop an action on a button long press.
     Supports deCONZ, ZHA, Zigbee2MQTT.
